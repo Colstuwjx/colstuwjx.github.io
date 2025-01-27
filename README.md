@@ -1,3 +1,3 @@
 # colstuwjx.github.io
 
-Blog site for tech and life.
+Personal blog site for tech and life.
